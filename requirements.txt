@@ -1,0 +1,4 @@
+socket
+pyfiglet
+python-nmap
+scapy
